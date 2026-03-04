@@ -4,7 +4,7 @@
   "minVersionCode": 1,
   "forceUpdate": true,
   "rolloutPercent": 100,
-  "apkUrl": "https://github.com/TheAdrielJoshua/AutoUpdateTesting/releases/download/v2.0.0/app_v2.apk/app_v2.apk",
+  "apkUrl": "https://github.com/TheAdrielJoshua/AutoUpdateTesting/releases/download/v2.0.0/SVRTesstingv2.apk",
   "apkSizeBytes": 130563033,
   "checksum": "sha256:e6d813be07e94bd64327f93abbabdb1f8bba68b8398d0c10a8f7419d3f1de8d6",
   "releaseNotes": ""
